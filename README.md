@@ -1,6 +1,6 @@
-# DataDog SQS Depth Monitor
+# Datadog SQS Depth Monitor
 
-Console program that creates a Depth of Queue Alarm on a specified SQS and forwards it to a supplied Slack Channel. Assumes AWS->DataDog Integration is configured as well as a Slack->DataDog setup.
+Console program that creates a Depth of Queue Alarm on a specified SQS and forwards it to a supplied Slack Channel. Assumes AWS->Datadog Integration is configured as well as a Slack->Datadog setup.
 
 ## Requirements
 
