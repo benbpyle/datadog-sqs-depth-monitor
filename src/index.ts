@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import { client, v1 } from "@datadog/datadog-api-client";
 import { Command } from "commander";
 import { createMonitor, findMonitor } from "./monitor";
